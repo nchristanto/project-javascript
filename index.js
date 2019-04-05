@@ -1,6 +1,9 @@
-console.log("Hello World");
-console.log("Hello Warning");
-console.error("Hello Error");
-console.info("Hello Info");
+console.log("Best");
+console.log("Are");
+console.error("-test");
+console.info("The");
+console.error("Hello Mom");
+console.info("You");
 
 alert("Hello Mom");
+
