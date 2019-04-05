@@ -1,9 +1,10 @@
-console.log("Best");
-console.log("Are");
+console.log(console.error("sfdf "));
+console.log(console.info("are"));
 console.error("-test");
-console.info("The");
+console.info("the");
 console.error("Hello Mom");
 console.info("You");
+console.warn("waspada");
 
 alert("Hello Mom");
 
